@@ -1,6 +1,11 @@
-## Oi 👋, eu sou Gustavo Henrique. <br> Desenvolvedor e entusiasta de programação e tecnologia!
-- 🌱 Atualmente estou aprendendo Laravel 8
-- 💬 Pergunte-me sobre: PHP, HTML, CSS e JS
+<h2> Oi , eu sou Gustavo Henrique. 
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"/>
+  <br> 
+  Desenvolvedor e entusiasta de programação e tecnologia!
+</h2>
+
+- 🌱 Atualmente estou aprendendo <img align="center" src="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" />
+- 💬 Pergunte-me sobre: PHP, HTML, CSS e JavaScript
 - 📫 Contate-me no email: gustavoh.santos735@gmail.com
 
 <div align="center">
