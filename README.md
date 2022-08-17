@@ -5,7 +5,7 @@
 </h2>
 
 - 🌱 Atualmente estou aprendendo <img align="center" src="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" />
-- 💬 Pergunte-me sobre: PHP, HTML, CSS e JavaScript
+- 💬 Pergunte-me sobre: React, JavaScript, PHP, HTML e CSS
 - 📫 Contate-me no email: gustavoh.santos735@gmail.com
 
 <div align="center">
@@ -24,6 +24,7 @@
   <img align="center" alt="Guh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Guh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Guh-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Guh-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 ##
