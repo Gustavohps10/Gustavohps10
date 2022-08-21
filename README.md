@@ -41,14 +41,14 @@
 
 <h3 align="center">Other Languages and Tools:</h3>
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=&message=HTML5&colorA=20232A&colorB=3d3f46&logo=html5&logoColor=FFF&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=CSS3&colorA=20232A&colorB=3d3f46&logo=css3&logoColor=FFF&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=Sass&colorA=20232A&colorB=3d3f46&logo=sass&logoColor=FFF&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=Electron&colorA=20232A&colorB=3d3f46&logo=electron&logoColor=FFF&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=PHP&colorA=20232A&colorB=3d3f46&logo=php&logoColor=FFF&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=Laravel&colorA=20232A&colorB=3d3f46&logo=laravel&logoColor=FFF&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=MySQL&colorA=20232A&colorB=3d3f46&logo=mysql&logoColor=FFF&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=Bootstrap&colorA=20232A&colorB=3d3f46&logo=bootstrap&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=HTML5&colorA=20232A&colorB=3d3f46&logo=html5&logoColor=E34F26&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=CSS3&colorA=20232A&colorB=3d3f46&logo=css3&logoColor=1572B6&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=Sass&colorA=20232A&colorB=3d3f46&logo=sass&logoColor=CC6699&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=Electron&colorA=20232A&colorB=3d3f46&logo=electron&logoColor=9FEAF9&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=PHP&colorA=20232A&colorB=3d3f46&logo=php&logoColor=777BB4&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=Laravel&colorA=20232A&colorB=3d3f46&logo=laravel&logoColor=FF2D20&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=MySQL&colorA=20232A&colorB=3d3f46&logo=mysql&logoColor=005C84&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=Bootstrap&colorA=20232A&colorB=3d3f46&logo=bootstrap&logoColor=563D7C&style=flat-square" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohps10&show_icons=true&locale=en&layout=compact" alt="gustavohps10" /></p>
