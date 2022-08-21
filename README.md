@@ -3,13 +3,15 @@
 <h3 align="center">Web developer and programming enthusiast</h3>
 
 <div align="center">
-<img src="https://img.shields.io/static/v1?label=&message=VS Code&colorA=20232A&colorB=3d3f46&logo=visual%20studio%20code&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=VS Code&colorA=20232A&colorB=3d3f46&logo=visual%20studio%20code&logoColor=0078D4&style=flat-square" />
 
-<img src="https://img.shields.io/static/v1?label=&message=React&colorA=20232A&colorB=3d3f46&logo=react&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=React&colorA=20232A&colorB=3d3f46&logo=react&logoColor=61DAFB&style=flat-square" />
 
-<img src="https://img.shields.io/static/v1?label=&message=JavaScript&colorA=20232A&colorB=3d3f46&logo=javascript&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=JavaScript&colorA=20232A&colorB=3d3f46&logo=javascript&logoColor=F7DF1E&style=flat-square" />
 
-<img src="https://img.shields.io/static/v1?label=&message=Node&colorA=20232A&colorB=3d3f46&logo=nodedotjs&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=Typescript&colorA=20232A&colorB=3d3f46&logo=typescript&logoColor=007ACC&style=flat-square" />
+
+<img src="https://img.shields.io/static/v1?label=&message=Node&colorA=20232A&colorB=3d3f46&logo=nodedotjs&logoColor=339933&style=flat-square" />
 
 </div>
 
@@ -41,19 +43,22 @@
 
 <h3 align="center">Other Languages and Tools:</h3>
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=&message=HTML5&colorA=20232A&colorB=3d3f46&logo=html5&logoColor=E34F26&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=CSS3&colorA=20232A&colorB=3d3f46&logo=css3&logoColor=1572B6&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=Sass&colorA=20232A&colorB=3d3f46&logo=sass&logoColor=CC6699&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=Electron&colorA=20232A&colorB=3d3f46&logo=electron&logoColor=9FEAF9&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=PHP&colorA=20232A&colorB=3d3f46&logo=php&logoColor=777BB4&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=Laravel&colorA=20232A&colorB=3d3f46&logo=laravel&logoColor=FF2D20&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=MySQL&colorA=20232A&colorB=3d3f46&logo=mysql&logoColor=005C84&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=Bootstrap&colorA=20232A&colorB=3d3f46&logo=bootstrap&logoColor=563D7C&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=HTML5&colorA=20232A&colorB=3d3f46&logo=html5&logoColor=E34F26&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=CSS3&colorA=20232A&colorB=3d3f46&logo=css3&logoColor=1572B6&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=Sass&colorA=20232A&colorB=3d3f46&logo=sass&logoColor=CC6699&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=Electron&colorA=20232A&colorB=3d3f46&logo=electron&logoColor=9FEAF9&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=PHP&colorA=20232A&colorB=3d3f46&logo=php&logoColor=777BB4&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=Laravel&colorA=20232A&colorB=3d3f46&logo=laravel&logoColor=FF2D20&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=MySQL&colorA=20232A&colorB=3d3f46&logo=mysql&logoColor=005C84&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&colorA=20232A&colorB=3d3f46&logo=bootstrap&logoColor=563D7C&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=MaterializeCSS&colorA=20232A&colorB=3d3f46&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABmJLR0QA/wD/AP+gvaeTAAACQUlEQVQ4je2TS0hUYRTHf993Z7wzOTmO4gPsgUa20IIKQlwUuWnVJmho07YW0kMQCtzcXdFSgpaCS+m1CSIScVFR1ggiuOkF4shozquZuTPeO/e08M5gErmopf/V+f6H8//+5xwO7OFfof5Ebtywmgy3bABEO0JFZVmbAMsjI+H9ZTMEEO0/6Kjh4cLOWr2TSN0aPeEZdtoxJS1tTbN2z/EZALEsHZKGRceUtBtSq6VIx1JhYqpzV0FDG5cBAyDQ0ZkGBu3JqUNraXsA6AEIxFoWlFIHlBG4uKsgMFRPNkbaARB91tByrs43x4oAChnaWfyboFhWQISTAErrotJGLwBKDaLU6XoXkUjUD8/8VXAtb/cBYQAVNJdqrQucQqgJeioQbPTj7szEs+btGoHS5NNLCrkAUFlZyTiplS23TuWdgqMCUXGdwwK1BXwFPgK9gCL5/er67Tt9IEoLj3U45L7ykCsC13RDcKD2k+dJQlDzANV8fnmbiQRKPtQezkbqJnAd1PmW2L5preLxghL9AsDNZVrr8xQ3IfAGoJrNFWu8gk8gcwBU3Yzy5Iifeq0sy9uaofbeI1Ks/swf85Pr7bHIohaZBnAL2doSQPRs2JR5oOJk05/xj0Ngqb4UjfeyatsJRIK+vSfKsrxQLvxWNisLuG6/L/elNWbOqXjcBp67qVXX592AZ8zAttP7MTbWVS1VTYBSNJTstqwyQPbuvVilkosBmGUyzY/uZwBkfNxc+5bsAtCOV257+CDJHv4LfgGxF+RxMNdfpgAAAABJRU5ErkJggg==&style=flat-square" />
+</p> 
+ 
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=gustavohps10&show_icons=true&locale=en" alt="gustavohps10" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohps10&show_icons=true&locale=en&layout=compact" alt="gustavohps10" />
+
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohps10&show_icons=true&locale=en&layout=compact" alt="gustavohps10" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohps10&show_icons=true&locale=en" alt="gustavohps10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohps10&" alt="gustavohps10" /></p>
 
