@@ -1,37 +1,46 @@
-<h2> Oi , eu sou Gustavo Henrique. 
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"/>
-  <br> 
-  Desenvolvedor e entusiasta de programação e tecnologia!
-</h2>
-
-- 🌱 Atualmente estou aprendendo <img align="center" src="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" />
-- 💬 Pergunte-me sobre: React, JavaScript, PHP, HTML e CSS
-- 📫 Contate-me no email: gustavoh.santos735@gmail.com
+<img width="100%" height="250px"  src="https://user-images.githubusercontent.com/61752235/185770611-5e68ffb3-afd6-486f-b685-df5465d906ef.gif"/>
+<h1 align="center">Hi 👋, I'm Gustavo Henrique</h1>
+<h3 align="center">Web developer and programming enthusiast</h3>
 
 <div align="center">
-  <a href="https://github.com/gustavohps10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohps10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=blue"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohps10&layout=compact&langs_count=7&theme=dracula&title_color=blue"/></a>
-</div>
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Guh-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Guh-PHP" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Guh-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-  <img align="center" alt="Guh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Guh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Guh-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Guh-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://img.shields.io/static/v1?label=&message=VS Code&colorA=20232A&colorB=3d3f46&logo=visual%20studio%20code&logoColor=FFF&style=flat-square" />
+
+<img src="https://img.shields.io/static/v1?label=&message=React&colorA=20232A&colorB=3d3f46&logo=react&logoColor=FFF&style=flat-square" />
+
+<img src="https://img.shields.io/static/v1?label=&message=JavaScript&colorA=20232A&colorB=3d3f46&logo=javascript&logoColor=FFF&style=flat-square" />
+
+<img src="https://img.shields.io/static/v1?label=&message=Node&colorA=20232A&colorB=3d3f46&logo=nodedotjs&logoColor=FFF&style=flat-square" />
+
 </div>
 
-##
-<div>
-  <a href="https://discord.gg/wY7rhAde5x" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gustavoh.santos735@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-henrique-pereira-dos-santos-69a423210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
-  
+- 🔭 **I’m currently working on:** API REST using Clean architecture
+
+- 🌱 **I’m currently learning:** Next.js, Typescript and React
+
+- 👨‍💻 **All of my projects are available at:** [https://gustavohenrique.ga](https://gustavohenrique.ga)
+
+- 💬 **Ask me about:** React, Javascript, HTML5, CSS3 and PHP
+
+- 📫 **How to reach me:** gustavoh.santos735@gmail.com
+
+- 🌎 **Living in:** Brazil
+
+- ⚡ **Fun fact:** If I could have the best collection of anything in the world, it would be... a collection of video games.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/5397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5397" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Other Languages and Tools:</h3>
+
+<img src="https://img.shields.io/static/v1?label=&message=Electron&colorA=20232A&colorB=3d3f46&logo=electron&logoColor=FFF&style=flat-square" />
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohps10&show_icons=true&locale=en&layout=compact" alt="gustavohps10" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohps10&show_icons=true&locale=en" alt="gustavohps10" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohps10&" alt="gustavohps10" /></p>
+
