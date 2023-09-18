@@ -1,4 +1,4 @@
-<img width="100%"  src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/0c49b432-efa8-48ab-914f-a324a5951360"/>
+<img width="100%"  src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/0381518a-a2d9-4b7b-97e3-337d438d6633"/>
 
 <h3 align="center">Web developer and programming enthusiast</h3>
 
