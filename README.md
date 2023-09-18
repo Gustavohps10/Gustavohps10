@@ -1,5 +1,5 @@
-<img width="100%" height="180px"  src="https://user-images.githubusercontent.com/61752235/185770611-5e68ffb3-afd6-486f-b685-df5465d906ef.gif"/>
-<h1 align="center">Hi 👋, I'm Gustavo Henrique</h1>
+<img width="100%"  src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/0c49b432-efa8-48ab-914f-a324a5951360"/>
+
 <h3 align="center">Web developer and programming enthusiast</h3>
 
 <div align="center">
