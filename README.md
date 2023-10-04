@@ -11,16 +11,16 @@
 
 <img src="https://img.shields.io/static/v1?label=&message=Typescript&colorA=20232A&colorB=3d3f46&logo=typescript&logoColor=007ACC&style=flat-square" />
 
-<img src="https://img.shields.io/static/v1?label=&message=Node&colorA=20232A&colorB=3d3f46&logo=nodedotjs&logoColor=339933&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=Node.js&colorA=20232A&colorB=3d3f46&logo=nodedotjs&logoColor=339933&style=flat-square" />
 
 </div>
 
 
-- 🔭 **I’m currently working on:** API REST using Clean architecture
+- 🔭 **I’m currently working on:** APIs REST with NestJS
 
-- ⚛ **I’m currently learning:** Next.js, Typescript and React
-
-- 👨‍💻 **All of my projects are available at:** [https://gustavohenrique.site](https://gustavohenrique.site)
+- 🧠 **I’m currently learning:** Next.js, NestJS, and Typescript
+  
+- ⚛ **All of my projects are available at:** [https://gustavohenrique.site](https://gustavohenrique.site)
 
 - 💬 **Ask me about:** React, Javascript, HTML5, CSS3 and PHP
 
@@ -28,7 +28,7 @@
 
 - 🌎 **Living in:** Brazil
 
-- 🎮 **My favorite game is:** Super Mario World &nbsp; <img height="30" align="center" src="https://user-images.githubusercontent.com/61752235/185775738-87fac7b4-b4af-4620-85e6-50e4731dbeb3.png">
+- 🎮 **My favorite game is:** Super Mario World &nbsp; <img height="30" src="https://user-images.githubusercontent.com/61752235/185775738-87fac7b4-b4af-4620-85e6-50e4731dbeb3.png">
   
   
 </p>
