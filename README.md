@@ -28,7 +28,7 @@
 
 - 🌎 **Living in:** Brazil
 
-- 🎮 **My favorite game is:** Super Mario World &nbsp; <img height="30" src="https://user-images.githubusercontent.com/61752235/185775738-87fac7b4-b4af-4620-85e6-50e4731dbeb3.png">
+- 🎮 **My favorite game is:** Super Mario World &nbsp; <img align="center" height="30" src="https://user-images.githubusercontent.com/61752235/185775738-87fac7b4-b4af-4620-85e6-50e4731dbeb3.png">
   
   
 </p>
