@@ -1,8 +1,7 @@
-<img width="100%"  src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/0381518a-a2d9-4b7b-97e3-337d438d6633"/>
-
-<h3 align="center">Web developer and programming enthusiast</h3>
+<img width="100%"  src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/12fc2ce0-feda-4677-9f7f-9043b19709a0"/>
 
 <div align="center">
+  
 <img src="https://img.shields.io/static/v1?label=&message=VS Code&colorA=20232A&colorB=3d3f46&logo=visual%20studio%20code&logoColor=0078D4&style=flat-square" />
 
 <img src="https://img.shields.io/static/v1?label=&message=React&colorA=20232A&colorB=3d3f46&logo=react&logoColor=61DAFB&style=flat-square" />
@@ -23,8 +22,6 @@
 - ⚛ **All of my projects are available at:** [https://gustavohenrique.site](https://gustavohenrique.site)
 
 - 💬 **Ask me about:** React, Javascript, HTML5, CSS3 and PHP
-
-- 📫 **How to reach me:** gustavoh.santos735@gmail.com
 
 - 🌎 **Living in:** Brazil
 
