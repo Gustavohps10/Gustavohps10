@@ -1,18 +1,16 @@
-<img width="100%"  src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/12fc2ce0-feda-4677-9f7f-9043b19709a0"/>
+<p>
+<img width="100%" src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/12fc2ce0-feda-4677-9f7f-9043b19709a0"/>
+</p>
 
 <div align="center">
-  
-<img src="https://img.shields.io/static/v1?label=&message=VS Code&colorA=20232A&colorB=3d3f46&logo=visual%20studio%20code&logoColor=0078D4&style=flat-square" />
-
-<img src="https://img.shields.io/static/v1?label=&message=React&colorA=20232A&colorB=3d3f46&logo=react&logoColor=61DAFB&style=flat-square" />
-
-<img src="https://img.shields.io/static/v1?label=&message=JavaScript&colorA=20232A&colorB=3d3f46&logo=javascript&logoColor=F7DF1E&style=flat-square" />
-
-<img src="https://img.shields.io/static/v1?label=&message=Typescript&colorA=20232A&colorB=3d3f46&logo=typescript&logoColor=007ACC&style=flat-square" />
-
-<img src="https://img.shields.io/static/v1?label=&message=Node.js&colorA=20232A&colorB=3d3f46&logo=nodedotjs&logoColor=339933&style=flat-square" />
-
+<img src="https://img.shields.io/static/v1?label=&message=VS Code&colorA=9370e4&colorB=121214&logo=visual%20studio%20code&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=React&colorA=9370e4&colorB=121214&logo=react&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=JavaScript&colorA=9370e4&colorB=121214&logo=javascript&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=TypeScript&colorA=9370e4&colorB=121214&logo=typescript&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=Node.js&colorA=9370e4&colorB=121214&logo=nodedotjs&logoColor=FFF&style=flat-square" />
 </div>
+
+<h2>About me</h2>
 
 
 - 🔭 **I’m currently working on:** APIs REST with NestJS
@@ -30,7 +28,7 @@
   
 </p>
 
-<h3 align="center">Other Languages and Tools:</h3>
+<h3 align="center">Other Tools:</h3>
 <p align="center" width="50">
  <img src="https://img.shields.io/static/v1?label=&message=HTML5&colorA=20232A&colorB=3d3f46&logo=html5&logoColor=E34F26&style=flat-square" />
  <img src="https://img.shields.io/static/v1?label=&message=CSS3&colorA=20232A&colorB=3d3f46&logo=css3&logoColor=1572B6&style=flat-square" />
