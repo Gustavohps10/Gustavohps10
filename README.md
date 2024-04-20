@@ -12,7 +12,7 @@
 
 <h2>About me</h2>
 
-- 🔭 **I’m currently working on:** APIs REST with Delphi
+- 🔭 **I’m currently working on:** APIs REST
 - 🧠 **I’m currently learning:** Delphi
 - ⚛ **All of my projects are available at:** [https://gustavohenrique.site](https://gustavohenrique.site)
 - 💬 **Ask me about:** React, Javascript, HTML5, CSS3 and PHP
