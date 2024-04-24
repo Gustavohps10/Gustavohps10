@@ -31,6 +31,7 @@
  <img src="https://img.shields.io/static/v1?label=&message=PHP&colorA=20232A&colorB=3d3f46&logo=php&logoColor=777BB4&style=flat-square" />
  <img src="https://img.shields.io/static/v1?label=&message=Laravel&colorA=20232A&colorB=3d3f46&logo=laravel&logoColor=FF2D20&style=flat-square" />
  <img src="https://img.shields.io/static/v1?label=&message=MySQL&colorA=20232A&colorB=3d3f46&logo=mysql&logoColor=005C84&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&colorA=20232A&colorB=3d3f46&logo=postgresql&logoColor=336791&style=flat-square">
  <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&colorA=20232A&colorB=3d3f46&logo=bootstrap&logoColor=563D7C&style=flat-square" />
  <img src="https://img.shields.io/static/v1?label=&message=MaterializeCSS&colorA=20232A&colorB=3d3f46&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABmJLR0QA/wD/AP+gvaeTAAACQUlEQVQ4je2TS0hUYRTHf993Z7wzOTmO4gPsgUa20IIKQlwUuWnVJmho07YW0kMQCtzcXdFSgpaCS+m1CSIScVFR1ggiuOkF4shozquZuTPeO/e08M5gErmopf/V+f6H8//+5xwO7OFfof5Ebtywmgy3bABEO0JFZVmbAMsjI+H9ZTMEEO0/6Kjh4cLOWr2TSN0aPeEZdtoxJS1tTbN2z/EZALEsHZKGRceUtBtSq6VIx1JhYqpzV0FDG5cBAyDQ0ZkGBu3JqUNraXsA6AEIxFoWlFIHlBG4uKsgMFRPNkbaARB91tByrs43x4oAChnaWfyboFhWQISTAErrotJGLwBKDaLU6XoXkUjUD8/8VXAtb/cBYQAVNJdqrQucQqgJeioQbPTj7szEs+btGoHS5NNLCrkAUFlZyTiplS23TuWdgqMCUXGdwwK1BXwFPgK9gCL5/er67Tt9IEoLj3U45L7ykCsC13RDcKD2k+dJQlDzANV8fnmbiQRKPtQezkbqJnAd1PmW2L5preLxghL9AsDNZVrr8xQ3IfAGoJrNFWu8gk8gcwBU3Yzy5Iifeq0sy9uaofbeI1Ks/swf85Pr7bHIohaZBnAL2doSQPRs2JR5oOJk05/xj0Ngqb4UjfeyatsJRIK+vSfKsrxQLvxWNisLuG6/L/elNWbOqXjcBp67qVXX592AZ8zAttP7MTbWVS1VTYBSNJTstqwyQPbuvVilkosBmGUyzY/uZwBkfNxc+5bsAtCOV257+CDJHv4LfgGxF+RxMNdfpgAAAABJRU5ErkJggg==&style=flat-square" />
 </p>
@@ -40,4 +41,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohps10&layout=compact&langs_count=7&theme=blue_navy"/>
 </div>
  
+
 
