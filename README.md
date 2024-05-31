@@ -3,14 +3,14 @@
 </p>
 
 <div align="center">
-<img src="https://img.shields.io/static/v1?label=&message=VS Code&colorA=9370e4&colorB=121214&logo=visual%20studio%20code&logoColor=FFF&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=React&colorA=9370e4&colorB=121214&logo=react&logoColor=FFF&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=JavaScript&colorA=9370e4&colorB=121214&logo=javascript&logoColor=FFF&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=TypeScript&colorA=9370e4&colorB=121214&logo=typescript&logoColor=FFF&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=Node.js&colorA=9370e4&colorB=121214&logo=nodedotjs&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=VS Code&colorA=8257e6&colorB=121214&logo=visual%20studio%20code&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=React&colorA=8257e6&colorB=121214&logo=react&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=JavaScript&colorA=8257e6&colorB=121214&logo=javascript&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=TypeScript&colorA=8257e6&colorB=121214&logo=typescript&logoColor=FFF&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=Node.js&colorA=8257e6&colorB=121214&logo=nodedotjs&logoColor=FFF&style=flat-square" />
 </div>
 
-<h2>About me</h2>
+## About me
 
 - 🔭 **I’m currently working on:** APIs REST
 - 🧠 **I’m currently learning:** Delphi
@@ -22,18 +22,18 @@
   
 </p>
 
-<h2 align="center">Other Tools:</h2>
+<h2 align="center">Other Tools</h2>
 <p align="center" width="50">
- <img src="https://img.shields.io/static/v1?label=&message=HTML5&colorA=20232A&colorB=3d3f46&logo=html5&logoColor=E34F26&style=flat-square" />
- <img src="https://img.shields.io/static/v1?label=&message=CSS3&colorA=20232A&colorB=3d3f46&logo=css3&logoColor=1572B6&style=flat-square" />
- <img src="https://img.shields.io/static/v1?label=&message=Sass&colorA=20232A&colorB=3d3f46&logo=sass&logoColor=CC6699&style=flat-square" />
- <img src="https://img.shields.io/static/v1?label=&message=Electron&colorA=20232A&colorB=3d3f46&logo=electron&logoColor=9FEAF9&style=flat-square" />
- <img src="https://img.shields.io/static/v1?label=&message=PHP&colorA=20232A&colorB=3d3f46&logo=php&logoColor=777BB4&style=flat-square" />
- <img src="https://img.shields.io/static/v1?label=&message=Laravel&colorA=20232A&colorB=3d3f46&logo=laravel&logoColor=FF2D20&style=flat-square" />
- <img src="https://img.shields.io/static/v1?label=&message=MySQL&colorA=20232A&colorB=3d3f46&logo=mysql&logoColor=005C84&style=flat-square" />
-<img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&colorA=20232A&colorB=3d3f46&logo=postgresql&logoColor=336791&style=flat-square">
- <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&colorA=20232A&colorB=3d3f46&logo=bootstrap&logoColor=563D7C&style=flat-square" />
- <img src="https://img.shields.io/static/v1?label=&message=MaterializeCSS&colorA=20232A&colorB=3d3f46&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABmJLR0QA/wD/AP+gvaeTAAACQUlEQVQ4je2TS0hUYRTHf993Z7wzOTmO4gPsgUa20IIKQlwUuWnVJmho07YW0kMQCtzcXdFSgpaCS+m1CSIScVFR1ggiuOkF4shozquZuTPeO/e08M5gErmopf/V+f6H8//+5xwO7OFfof5Ebtywmgy3bABEO0JFZVmbAMsjI+H9ZTMEEO0/6Kjh4cLOWr2TSN0aPeEZdtoxJS1tTbN2z/EZALEsHZKGRceUtBtSq6VIx1JhYqpzV0FDG5cBAyDQ0ZkGBu3JqUNraXsA6AEIxFoWlFIHlBG4uKsgMFRPNkbaARB91tByrs43x4oAChnaWfyboFhWQISTAErrotJGLwBKDaLU6XoXkUjUD8/8VXAtb/cBYQAVNJdqrQucQqgJeioQbPTj7szEs+btGoHS5NNLCrkAUFlZyTiplS23TuWdgqMCUXGdwwK1BXwFPgK9gCL5/er67Tt9IEoLj3U45L7ykCsC13RDcKD2k+dJQlDzANV8fnmbiQRKPtQezkbqJnAd1PmW2L5preLxghL9AsDNZVrr8xQ3IfAGoJrNFWu8gk8gcwBU3Yzy5Iifeq0sy9uaofbeI1Ks/swf85Pr7bHIohaZBnAL2doSQPRs2JR5oOJk05/xj0Ngqb4UjfeyatsJRIK+vSfKsrxQLvxWNisLuG6/L/elNWbOqXjcBp67qVXX592AZ8zAttP7MTbWVS1VTYBSNJTstqwyQPbuvVilkosBmGUyzY/uZwBkfNxc+5bsAtCOV257+CDJHv4LfgGxF+RxMNdfpgAAAABJRU5ErkJggg==&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=HTML5&colorA=2a2a2a&colorB=121214&logo=html5&logoColor=E34F26&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=CSS3&colorA=2a2a2a&colorB=121214&logo=css3&logoColor=1572B6&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=Sass&colorA=2a2a2a&colorB=121214&logo=sass&logoColor=CC6699&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=Electron&colorA=2a2a2a&colorB=121214&logo=electron&logoColor=9FEAF9&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=PHP&colorA=2a2a2a&colorB=121214&logo=php&logoColor=777BB4&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=Laravel&colorA=2a2a2a&colorB=121214&logo=laravel&logoColor=FF2D20&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=MySQL&colorA=2a2a2a&colorB=121214&logo=mysql&logoColor=005C84&style=flat-square" />
+<img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&colorA=2a2a2a&colorB=121214&logo=postgresql&logoColor=336791&style=flat-square">
+ <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&colorA=2a2a2a&colorB=121214&logo=bootstrap&logoColor=563D7C&style=flat-square" />
+ <img src="https://img.shields.io/static/v1?label=&message=MaterializeCSS&colorA=2a2a2a&colorB=121214&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABmJLR0QA/wD/AP+gvaeTAAACQUlEQVQ4je2TS0hUYRTHf993Z7wzOTmO4gPsgUa20IIKQlwUuWnVJmho07YW0kMQCtzcXdFSgpaCS+m1CSIScVFR1ggiuOkF4shozquZuTPeO/e08M5gErmopf/V+f6H8//+5xwO7OFfof5Ebtywmgy3bABEO0JFZVmbAMsjI+H9ZTMEEO0/6Kjh4cLOWr2TSN0aPeEZdtoxJS1tTbN2z/EZALEsHZKGRceUtBtSq6VIx1JhYqpzV0FDG5cBAyDQ0ZkGBu3JqUNraXsA6AEIxFoWlFIHlBG4uKsgMFRPNkbaARB91tByrs43x4oAChnaWfyboFhWQISTAErrotJGLwBKDaLU6XoXkUjUD8/8VXAtb/cBYQAVNJdqrQucQqgJeioQbPTj7szEs+btGoHS5NNLCrkAUFlZyTiplS23TuWdgqMCUXGdwwK1BXwFPgK9gCL5/er67Tt9IEoLj3U45L7ykCsC13RDcKD2k+dJQlDzANV8fnmbiQRKPtQezkbqJnAd1PmW2L5preLxghL9AsDNZVrr8xQ3IfAGoJrNFWu8gk8gcwBU3Yzy5Iifeq0sy9uaofbeI1Ks/swf85Pr7bHIohaZBnAL2doSQPRs2JR5oOJk05/xj0Ngqb4UjfeyatsJRIK+vSfKsrxQLvxWNisLuG6/L/elNWbOqXjcBp67qVXX592AZ8zAttP7MTbWVS1VTYBSNJTstqwyQPbuvVilkosBmGUyzY/uZwBkfNxc+5bsAtCOV257+CDJHv4LfgGxF+RxMNdfpgAAAABJRU5ErkJggg==&style=flat-square" />
 </p>
 
 <div align="center">
