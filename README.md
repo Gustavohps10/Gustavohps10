@@ -17,7 +17,7 @@
 - ⚛ **All of my projects are available at:** [https://gustavohenrique.site](https://gustavohenrique.site)
 - 💬 **Ask me about:** React, Javascript, HTML5, CSS3 and PHP
 - 🌎 **Living in:** Brazil
-- 🎮 **My favorite game is:** Super Mario World &nbsp; <img align="center" height="30" src="https://user-images.githubusercontent.com/61752235/185775738-87fac7b4-b4af-4620-85e6-50e4731dbeb3.png">
+- 🎮 **My favorite game is:** Super Mario World &nbsp; <img align="center" height="30" src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/a7babb20-a512-429e-af92-4107b5c3dda2">
   
   
 </p>
