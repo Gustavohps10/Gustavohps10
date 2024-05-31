@@ -1,6 +1,6 @@
 ## Hey, there!
 
-<img align="right" width="380em" src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/8d447efe-75b1-4602-97c9-fb932d77c244">
+<img align="right" width="40%" src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/8d447efe-75b1-4602-97c9-fb932d77c244">
 
 <div align="left" width="400em" >
 
