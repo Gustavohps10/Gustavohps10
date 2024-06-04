@@ -1,25 +1,22 @@
-## Hey, there!
+<p><img width="100%" src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/be31b289-e8e9-4996-a38a-b0c5ed782967"></p>
 
-<img align="right" width="380em" src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/ff875169-9a1c-4df6-a48e-5e4b821904c8">
-
-<div align="left" width="400em" >
-
-<div align="center">
+<p align="center">
 <img src="https://img.shields.io/static/v1?label=&message=VS Code&colorA=8257e6&colorB=1a1a1e&logo=visual%20studio%20code&logoColor=FFF&style=flat-square" />
 <img src="https://img.shields.io/static/v1?label=&message=React&colorA=8257e6&colorB=1a1a1e&logo=react&logoColor=FFF&style=flat-square" />
 <img src="https://img.shields.io/static/v1?label=&message=JavaScript&colorA=8257e6&colorB=1a1a1e&logo=javascript&logoColor=FFF&style=flat-square" />
 <img src="https://img.shields.io/static/v1?label=&message=TypeScript&colorA=8257e6&colorB=1a1a1e&logo=typescript&logoColor=FFF&style=flat-square" />
 <img src="https://img.shields.io/static/v1?label=&message=Node.js&colorA=8257e6&colorB=1a1a1e&logo=nodedotjs&logoColor=FFF&style=flat-square" />
-</div>
+</p>
 
-### About me
+## About me
 - 🧠 **I’m currently learning:** APIs REST
 - 🔭 **All of my projects are available at:** [https://gustavohenrique.site](https://gustavohenrique.site)
 - 💬 **Ask me about:** React, Javascript, HTML5, CSS3 and PHP
 - 🌎 **Living in:** Brazil
 - 🎮 **My favorite game is:** Super Mario World &nbsp; <img align="center" height="30" src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/a7babb20-a512-429e-af92-4107b5c3dda2">
 
-<h3 align="center">Other Tools</h3>
+
+<h2 align="center">Other Tools</h2>
 <p align="center" width="50">
  <img src="https://img.shields.io/static/v1?label=&message=HTML5&colorA=2a2a2a&colorB=1a1a1e&logo=html5&logoColor=E34F26&style=flat-square" />
  <img src="https://img.shields.io/static/v1?label=&message=CSS3&colorA=2a2a2a&colorB=1a1a1e&logo=css3&logoColor=1572B6&style=flat-square" />
@@ -34,6 +31,3 @@
 </p>
 
 <p align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavohps10&show_icons=true&include_all_commits=true&count_private=true&bg_color=1a1a1e&icon_color=8257e6&title_color=ffffff&text_color=717171&locale=pt-BR&hide_border=true"/></p>
-
- 
-</div>
