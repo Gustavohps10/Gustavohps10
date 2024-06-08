@@ -6,11 +6,20 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=&message=VS Code&colorA=8257e6&colorB=1a1a1e&logo=visual%20studio%20code&logoColor=FFF&style=flat" />
-<img src="https://img.shields.io/static/v1?label=&message=React&colorA=8257e6&colorB=1a1a1e&logo=react&logoColor=FFF&style=flat" />
-<img src="https://img.shields.io/static/v1?label=&message=JavaScript&colorA=8257e6&colorB=1a1a1e&logo=javascript&logoColor=FFF&style=flat" />
-<img src="https://img.shields.io/static/v1?label=&message=TypeScript&colorA=8257e6&colorB=1a1a1e&logo=typescript&logoColor=FFF&style=flat" />
-<img src="https://img.shields.io/static/v1?label=&message=Node.js&colorA=8257e6&colorB=1a1a1e&logo=nodedotjs&logoColor=FFF&style=flat" />
+    <a href="https://github.com/Gustavohps10#gh-light-mode-only">
+        <img src="https://img.shields.io/static/v1?label=&message=VS Code&colorA=8257e6&colorB=ffffff&logo=visual%20studio%20code&logoColor=FFF&style=flat" />
+        <img src="https://img.shields.io/static/v1?label=&message=React&colorA=8257e6&colorB=ffffff&logo=react&logoColor=FFF&style=flat" />
+        <img src="https://img.shields.io/static/v1?label=&message=JavaScript&colorA=8257e6&colorB=ffffff&logo=javascript&logoColor=FFF&style=flat" />
+        <img src="https://img.shields.io/static/v1?label=&message=TypeScript&colorA=8257e6&colorB=ffffff&logo=typescript&logoColor=FFF&style=flat" />
+        <img src="https://img.shields.io/static/v1?label=&message=Node.js&colorA=8257e6&colorB=ffffff&logo=nodedotjs&logoColor=FFF&style=flat" />
+    </a>
+    <a href="https://github.com/Gustavohps10#gh-dark-mode-only">
+        <img src="https://img.shields.io/static/v1?label=&message=VS Code&colorA=8257e6&colorB=1a1a1e&logo=visual%20studio%20code&logoColor=FFF&style=flat" />
+        <img src="https://img.shields.io/static/v1?label=&message=React&colorA=8257e6&colorB=1a1a1e&logo=react&logoColor=FFF&style=flat" />
+        <img src="https://img.shields.io/static/v1?label=&message=JavaScript&colorA=8257e6&colorB=1a1a1e&logo=javascript&logoColor=FFF&style=flat" />
+        <img src="https://img.shields.io/static/v1?label=&message=TypeScript&colorA=8257e6&colorB=1a1a1e&logo=typescript&logoColor=FFF&style=flat" />
+        <img src="https://img.shields.io/static/v1?label=&message=Node.js&colorA=8257e6&colorB=1a1a1e&logo=nodedotjs&logoColor=FFF&style=flat" />
+    </a>
 </p>
 
 ## About me
