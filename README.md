@@ -1,4 +1,9 @@
-<p><img width="100%" src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/9cbb856c-6c72-427f-8558-c9957cdd3720"></p>
+<p>
+
+![header-light](./assets/header-light.png#gh-light-mode-only)
+![header-dark](./assets/header-dark.png#gh-dark-mode-only)
+
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=&message=VS Code&colorA=8257e6&colorB=1a1a1e&logo=visual%20studio%20code&logoColor=FFF&style=flat" />
