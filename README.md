@@ -67,10 +67,10 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/Gustavohps10#gh-light-mode-only">
+    <a href="https://github.com/Gustavohps10#gh-dark-mode-only">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavohps10&show_icons=true&include_all_commits=true&count_private=true&bg_color=1a1a1e&icon_color=ffffff&title_color=ffffff&text_color=717171&locale=pt-BR&hide_border=true"/>
     </a>
-    <a href="https://github.com/Gustavohps10#gh-dark-mode-only">
+    <a href="https://github.com/Gustavohps10#gh-light-mode-only">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavohps10&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&icon_color=1a1a1e&title_color=1a1a1e&text_color=717171&locale=pt-BR&hide_border=false"/>
     </a>
 </p>
