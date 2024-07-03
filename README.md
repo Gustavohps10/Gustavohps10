@@ -28,8 +28,8 @@ Hello World! I'm Gustavo Henrique, Full Stack Developer and hardware enthusiast 
 - 💬 **Ask me about:** NodeJs, React, TypeScript and PHP
 - 🌎 **Living in:** Brazil
 - ⚽ **Favorite sport:** Soccer
-- 👒 **Favorite anime:** Dragon Ball
-- 🎮 **Favorite game:** Super Mario World &nbsp; <img align="center" height="30" src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/a7babb20-a512-429e-af92-4107b5c3dda2">
+- <img align="center" src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/f6ef1d50-fd56-4c08-b3c1-81ef3239cd5b"/> &nbsp;**Favorite anime:** Dragon Ball
+- 🎮 **Favorite game:** Cuphead &nbsp; <img align="center" height="44" src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/e612970f-d624-4353-b265-ca62e5b2810c">
 
 <p align="center">
     <a href="https://github.com/Gustavohps10#gh-light-mode-only">
