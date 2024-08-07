@@ -34,6 +34,6 @@ Hello World! My name is Gustavo Henrique, I have extensive knowledge in software
 
 <h6 align="center">
     
-Buy me a [coffee](https://ko-fi.com/gustavohps10) <img width="20" src="https://github.com/user-attachments/assets/c948d667-1936-4fc7-8489-18a29c18b833"/> 
+Buy me a [coffee](https://ko-fi.com/gustavohps10) &nbsp;  <img width="20" src="https://github.com/user-attachments/assets/11d18ac3-4ed3-4a14-8cff-95c164494a55"/> 
 
 </h6>
