@@ -26,7 +26,7 @@ Hello World! My name is Gustavo Henrique, I have extensive knowledge in software
     
 - 🧠 **I’m currently learning:** APIs REST
 - 🔭 **All of my projects are available at:** [my projects](https://gustavohenrique.vercel.app/projects)
-- 💬 **Ask me about:** Node.js, React, TypeScript and PHP
+- 💬 **Ask me about:** Node.js, React, TypeScript and C#
 - 🌎 **Living in:** Brazil
 - ⚽ **Favorite sport:** Soccer
 - <img align="center" width="17" src="https://github.com/Gustavohps10/Gustavohps10/assets/61752235/f6ef1d50-fd56-4c08-b3c1-81ef3239cd5b"/> &nbsp;**Favorite anime:** Dragon Ball
