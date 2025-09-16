@@ -24,7 +24,7 @@
 ## About me
 Hello World! My name is Gustavo Henrique, I have extensive knowledge in software development, driven by my passion for technology and the desire to face new challenges. Currently, I am focused on developing both Front-end and Back-end solutions, ensuring a rich and functional user experience.
     
-- 🧠 **I’m currently learning:** APIs REST
+- 🧠 **I’m currently learning:** Domain Driven Design
 - 🔭 **All of my projects are available at:** [my projects](https://gustavohenrique.vercel.app/projects)
 - 💬 **Ask me about:** Node.js, React, TypeScript and C#
 - 🌎 **Living in:** Brazil
